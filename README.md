@@ -88,6 +88,8 @@ This dashboard creation process is directly applicable to various real-world sce
 
 By performing this task, a working, professional-grade dashboard was created — showcasing skills in data preparation, visualization design, interactivity implementation, and insight generation.
 
+#Output
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdfefe46-7a5a-40ca-a59f-0f0b8c63aae5" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5788436-9249-438a-b44b-4ec18f83c1b7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb531f48-4595-4976-8cfc-32cc3e2d9fe7" />
