@@ -92,4 +92,5 @@ By performing this task, a working, professional-grade dashboard was created —
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5788436-9249-438a-b44b-4ec18f83c1b7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb531f48-4595-4976-8cfc-32cc3e2d9fe7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d055c44b-f694-4c19-991c-463ba1c649eb" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1c947067-d643-4682-a0f1-1fc0f803d8ba" />
 
